@@ -26,6 +26,6 @@ public class Foo {
                 baseNumber++;
                 return number + baseNumber;
             };
-        }
+        };
     }
 }
