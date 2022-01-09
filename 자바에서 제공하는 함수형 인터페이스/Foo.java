@@ -39,8 +39,12 @@ public class Foo {
 //        System.out.println(isOdd.test(3));
 
         // UnaryOperator
-        UnaryOperator<Integer> plus10 = (i) -> i + 10;
-        UnaryOperator<Integer> multiply2 = (i) -> i * 2;
-        System.out.println(plus10.andThen(multiply2).apply(2));
+//        UnaryOperator<Integer> plus10 = (i) -> i + 10;
+//        UnaryOperator<Integer> multiply2 = (i) -> i * 2;
+//        System.out.println(plus10.andThen(multiply2).apply(2));
+
+        //BiFunction
+        //BiFunction<Integer, String, Boolean> abc = (i, s) -> i.toString().equals(s);
+        //System.out.println(abc.apply(3, "4"));
     }
 }
