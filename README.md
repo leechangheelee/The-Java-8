@@ -14,3 +14,9 @@ https://www.inflearn.com/course/the-java-java8/dashboard
       * ...
 
 ## **함수형 인터페이스와 람다**
+  * 함수형 인터페이스와 람다 표현식 소개
+    * 함수형 인터페이스 (Functional Interface)
+      * 추상 메소드를 딱 하나만 가지고 있는 인터페이스
+    * 람다 표현식 (Lambda Expressions)
+      * 함수형 인터페이스의 인스턴스를 만드는 방법으로 쓰일 수 있다.
+      * 메소드를 매개변수, 리턴 타입, 변수로 만들어 사용할 수도 있다.
