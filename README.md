@@ -12,3 +12,5 @@ https://www.inflearn.com/course/the-java-java8/dashboard
       * 스트링 API
       * Optional\<T\>
       * ...
+
+## **함수형 인터페이스와 람다**
